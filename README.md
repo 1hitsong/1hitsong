@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🤘Enjoy
 
 <!--
 **1hitsong/1hitsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,13 +2,13 @@ If you enjoy my work, please consider supporting me.
 
 Your donation helps me continue development and helps me buy essential dev tools.
 
-Buy Me a Coffee: https://buymeacoffee.com/1hitsong
+🤘Buy Me a Coffee: https://buymeacoffee.com/1hitsong
 
-GitHub: https://github.com/sponsors/1hitsong
+🤘GitHub: https://github.com/sponsors/1hitsong
 
 Thank you!
 
-🤘Enjoy
+
 
 <!--
 **1hitsong/1hitsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

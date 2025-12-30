@@ -1,3 +1,5 @@
+## 🚫🤖 Keep AI Out Of Open Source 🚫🤖
+
 If you enjoy my work, please consider supporting me.
 
 Your donation helps me continue development and helps me buy essential dev tools.

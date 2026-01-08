@@ -2,7 +2,7 @@
 
 If you enjoy my work, please consider supporting me.
 
-Your donation helps me continue development and helps me buy essential dev tools.
+Your donation helps me continue development, helps me buy essential dev tools, and helps purchase batteries for my Roku remotes. You wouldn't believe how quickly those remotes can burn through batteries.
 
 🤘Buy Me a Coffee: https://buymeacoffee.com/1hitsong
 
